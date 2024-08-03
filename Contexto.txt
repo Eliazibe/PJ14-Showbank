@@ -1,0 +1,6 @@
+Projeto ~ 
+
+Iremos criar um sistema de cadastro de clientes e conta corrente.
+
+A Showbank contratou a gente para fazer um sistema de conta corrente e de clientes, onde tera um cadastro de clientes e conta corrente
+onde ele poderar manipular os saldos e realizar as operacoes do banco.
